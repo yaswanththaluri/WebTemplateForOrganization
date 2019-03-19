@@ -1,0 +1,68 @@
+#body
+{
+    background-color: #252830;
+    width: 100%;
+}
+.body-content
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-ele
+{
+    margin-left: 2%;
+    width: 100%;
+}
+
+
+.ele
+{
+    margin-left: 5%;
+}
+
+.ele-right-group
+{
+    justify-content: flex-end;
+}
+
+
+.ele-right
+{   
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+#signin-block
+{
+    width: 40%;
+    margin-top: 5%;
+    background-color: transparent;
+    color: #1ca2d4;
+}
+
+#signup-block
+{
+    width: 40%;
+    margin-bottom: 0%;
+    background-color: transparent;
+    color: #1ca2d4;
+}
+
+#signin-head-decor
+{
+    width: 10%;
+    background-color: #1bc98e;
+    height: 70%;
+}
+
+.my-4
+{
+    background-color: white;
+}
+
+#submit-login, #reset-login
+{
+    background-color: #1ca2d4;
+}
